@@ -1,0 +1,21 @@
+.ram:hover{
+    filter: brightness(60%);
+
+}
+
+.iborder:hover {
+    box-shadow: inset 0px -20px 0px -15px #f63667ff;
+    padding-bottom: 1rem;
+  }
+
+  
+.borders{
+    box-shadow: inset 0px -20px 0px -15px #f63667ff;
+    padding-bottom: 1rem;
+  }
+  
+body{max-height: 100vh;
+    width: 100vw;
+    overflow-x: hidden;
+   
+}
